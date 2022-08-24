@@ -1,0 +1,49 @@
+.button {
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.473);
+    padding: .25rem;
+    font-size: .75rem;
+    background-color: rgba(126, 186, 241, 0.489);
+    border-radius: 5px;
+    margin: 1em;
+    border: 1px;
+}
+
+.buttonFail{
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.473);
+    padding: .25rem;
+    font-size: .75rem;
+    background-color: rgba(238, 36, 0, 0.489);
+    border-radius: 5px;
+    margin: 1em;
+    border: 1px;
+}
+
+.button:hover {
+    background-color: rgba(10, 66, 221, 0.489);
+    transition-duration: 300ms;
+}
+
+
+.inputs {
+
+    margin: 3em 1em 1em 1em;
+    padding: .3em;
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.473);
+    border-radius: .4em;
+    border: 1px;
+}
+
+.Response{
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.473);
+    width: 10em;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 5px;
+    text-shadow: 1.2px 1.2px 2px rgb(101, 116, 124);
+    color: rgba(61, 61, 54, 0.692);
+}
+
+.text {
+    text-shadow: 1.2px 1.2px 2px rgb(101, 116, 124);
+    color: rgba(61, 61, 54, 0.692);
+}

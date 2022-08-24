@@ -1,0 +1,21 @@
+.buttonScreen{
+    color: rgb(0, 0, 0);
+    margin: 1em;
+    padding: .3em;
+    text-decoration: none;
+    background-color: rgba(126, 186, 241, 0.489);
+    border-radius: .4em;
+    text-shadow: 1.2px 1.2px 2px rgb(101, 116, 124);
+    color: rgba(32, 32, 28, 0.692);
+}
+
+.buttonScreen:hover {
+    background-color: rgba(10, 66, 221, 0.489);
+    transition-duration: 300ms;
+}
+
+.nav{
+    padding: .5em;
+    background-color: rgba(0, 255, 255, 0.445);
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.473);
+}
